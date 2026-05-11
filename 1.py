@@ -18,3 +18,4 @@ print("결과는 "+20)#오류
 # print(sum)
 # name=input("이름 입력")
 # print(name)
+# 테스트용
